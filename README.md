@@ -22,9 +22,10 @@ NetVibe is a simple Flutter app designed to test internet connection speeds (dow
 
 ## Demo
 
-App Demo : link
+App Demo : [Link](https://choosealicense.com/licenses/mit/)
 
-Android APK File : link
+Android APK File : [Link](https://1drv.ms/u/s!AuHD93h_9HkChS0DCqO9f79ZOVt3?e=bwKXFM)
+
 ## Screenshots
 
 <table style="border-collapse: collapse; border: none;">
