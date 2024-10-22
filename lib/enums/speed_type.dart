@@ -1,0 +1,1 @@
+enum SpeedType { UPLOAD, DOWNLOAD }
